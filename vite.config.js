@@ -6,5 +6,6 @@ export default defineConfig({
     plugins: [plugin()],
     server: {
         port: 63726,
-    }
+    },
+    base: '/dbcards/' // Set base for GitHub Pages
 })
