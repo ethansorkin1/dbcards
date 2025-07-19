@@ -141,7 +141,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Friends and Foes Card Dealer</h1>
+          <h1>Initiative Dealer</h1>
       <div style={{ display: 'flex', gap: '2rem' }}>
         <div>
           <h2>Friends</h2>
